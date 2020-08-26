@@ -366,4 +366,13 @@ body.lock{
     .ft-title{
       margin-bottom: 15px;
     }
+  .foot__item{
+      display: flex;
+      flex-direction: column;
+      
+    }
+    .foot-links{
+      padding-bottom: 10px;
+      font-size: 16px;
+    }
   }
